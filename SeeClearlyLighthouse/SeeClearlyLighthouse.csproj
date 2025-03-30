@@ -16,7 +16,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>lighthouse</PackageTags>
     <NeutralLanguage>en-DE</NeutralLanguage>
-    <PackageIcon>resources\logo.png</PackageIcon>
+    <PackageIcon>logo.png</PackageIcon>
     <PackageId>SeeClearlyLighthouse</PackageId>
   </PropertyGroup>
 
