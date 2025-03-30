@@ -12,4 +12,8 @@
     <PackageReference Include="MPack" Version="2.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SeeClearlyLighthouse\SeeClearlyLighthouse.csproj" />
+  </ItemGroup>
+
 </Project>

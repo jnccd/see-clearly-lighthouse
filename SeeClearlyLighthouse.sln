@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "see-clearly-lighthouse-prototype", "see-clearly-lighthouse-prototype\see-clearly-lighthouse-prototype.csproj", "{7B5C0040-265F-4AD2-AF8A-7D8DDE06109A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeeClearlyLighthouseTest", "SeeClearlyLighthouseTest\SeeClearlyLighthouseTest.csproj", "{7B5C0040-265F-4AD2-AF8A-7D8DDE06109A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeeClearlyLighthouse", "SeeClearlyLighthouse\SeeClearlyLighthouse.csproj", "{8022E8ED-E201-4992-8427-EE39EAC7FC4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7B5C0040-265F-4AD2-AF8A-7D8DDE06109A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B5C0040-265F-4AD2-AF8A-7D8DDE06109A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B5C0040-265F-4AD2-AF8A-7D8DDE06109A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8022E8ED-E201-4992-8427-EE39EAC7FC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8022E8ED-E201-4992-8427-EE39EAC7FC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8022E8ED-E201-4992-8427-EE39EAC7FC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8022E8ED-E201-4992-8427-EE39EAC7FC4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
