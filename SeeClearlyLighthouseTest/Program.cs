@@ -1,4 +1,4 @@
-﻿using PrototypeSeeClearlyLighthouse;
+﻿using SeeClearlyLighthouseTest;
 using SeeClearlyLighthouse;
 
 var client = await new LighthouseClient(Secret.Username, Secret.Token).Connect();
