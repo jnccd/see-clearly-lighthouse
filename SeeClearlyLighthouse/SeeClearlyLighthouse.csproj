@@ -5,6 +5,19 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageIcon>logo.png</PackageIcon>
+
+    <Title>C# Lighthouse Client</Title>
+    <Authors>Dobiko</Authors>
+    <Product>C# Lighthouse Client</Product>
+    <PackageProjectUrl>https://github.com/jnccd/see-clearly-lighthouse</PackageProjectUrl>
+    <Description>Helps connect to the Uni Kiel Lighthouse 👍</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/jnccd/see-clearly-lighthouse</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>lighthouse</PackageTags>
+    <NeutralLanguage>en-DE</NeutralLanguage>
+    <PackageIcon>resources\logo.png</PackageIcon>
+    <PackageId>SeeClearlyLighthouse</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
