@@ -21,14 +21,22 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MPack" Version="2.1.1" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="logo.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MPack" Version="2.1.1" />
   </ItemGroup>
 
 </Project>
