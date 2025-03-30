@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace see_clearly_lighthouse
+namespace SeeClearlyLighthouseTest
 {
     public static class Secret
     {
