@@ -11,8 +11,8 @@ Helps connect to the Uni Kiel Lighthouse 👍
 
 ##### Step 1
 ```
-dotnet new console -n MyLightouseApp
-cd MyLightouseApp
+dotnet new console -n MyLighthouseApp
+cd MyLighthouseApp
 dotnet add package SeeClearlyLighthouse
 ```
 ##### Step 2
