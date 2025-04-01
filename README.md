@@ -16,5 +16,4 @@ cd MyLightouseApp
 dotnet add package SeeClearlyLighthouse
 ```
 ##### Step 2
-Start coding in the Program.cs
-Example: https://github.com/jnccd/see-clearly-lighthouse/blob/main/SeeClearlyLighthouseTest/Program.cs
+Start coding in the Program.cs on your own or using the [Example](https://github.com/jnccd/see-clearly-lighthouse/blob/main/SeeClearlyLighthouseTest/Program.cs)
