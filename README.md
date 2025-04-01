@@ -11,11 +11,16 @@ Helps connect to the Uni Kiel Lighthouse 👍
 
 ## Usage
 
+##### Step 0
+
+Get an account on https://lighthouse.uni-kiel.de
+
 ##### Step 1
 ```
 dotnet new console -n MyLighthouseApp
 cd MyLighthouseApp
 dotnet add package SeeClearlyLighthouse
 ```
+
 ##### Step 2
 Start coding in the Program.cs on your own or using the [Example](https://github.com/jnccd/see-clearly-lighthouse/blob/main/SeeClearlyLighthouseTest/Program.cs)
