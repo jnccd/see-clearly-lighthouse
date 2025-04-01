@@ -54,8 +54,8 @@ namespace SeeClearlyLighthouse
         /// Send an image to the server
         /// </summary>
         /// <param name="image">The image tensor with dimensions [width, height, color channel] of size [14, 28, 3]</param>
-        /// <returns></returns>
-        /// <exception cref="ArgumentException"></exception>
+        /// <returns>Server Answer as String</returns>
+        /// <exception cref="ArgumentException">If you fucked up</exception>
         public async Task<string> SendImage(byte[,,] image, CancellationToken cancellationToken = default)
         {
             if (msgpackDict == null)
