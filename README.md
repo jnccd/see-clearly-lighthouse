@@ -7,6 +7,8 @@
 
 Helps connect to the Uni Kiel Lighthouse 👍
 
+![image](https://github.com/user-attachments/assets/081f814b-f2d8-4bd3-8620-54eacca2673d)
+
 ## Usage
 
 ##### Step 1
