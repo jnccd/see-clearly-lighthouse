@@ -20,6 +20,10 @@
     <PackageId>SeeClearlyLighthouse</PackageId>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+  </PropertyGroup>
+
   <ItemGroup>
     <None Update="logo.png">
       <Pack>True</Pack>
